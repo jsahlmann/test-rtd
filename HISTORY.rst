@@ -2,7 +2,7 @@
 History
 =======
 
-0.2.0 (2024-10-06)
+0.1.0 (2024-11-11)
 ------------------
 
-* First release on PyPI.
+* First presentation at PHUSE Connect 2024.
